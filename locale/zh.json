@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "远程桌面",
+    "description": "在这个窗口里操作另一台装了 Harness 的电脑：局域网自动发现，跨网络经云端 Harness 中转。"
+  }
+}

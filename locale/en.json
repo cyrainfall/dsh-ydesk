@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Remote desktop",
+    "description": "Control another Harness machine's screen from this window: automatic discovery on the local network, relay through a cloud Harness otherwise."
+  }
+}

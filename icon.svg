@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Remote desktop">
+  <rect x="4" y="10" width="56" height="36" rx="5" fill="#1d2733"/>
+  <rect x="8" y="14" width="48" height="28" rx="3" fill="#2f7fd1"/>
+  <path d="M20 54h24l-3-6H23z" fill="#1d2733"/>
+  <path d="M24 22l18 8-18 8z" fill="#eaf3ff"/>
+</svg>

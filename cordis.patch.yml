@@ -1,0 +1,11 @@
+- insert:
+    - id: ydesk
+      name: dsh-ydesk
+      config:
+        port: 8895
+        fps: 60
+        bitrate: "6M"
+        quality: sharp
+        pin: ''
+        relay: ''
+        allowLan: true

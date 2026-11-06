@@ -1,0 +1,33 @@
+{
+  "name": "dsh-ydesk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Peer-to-peer remote desktop between Harness instances on the same LAN, relayed through a cloud Harness otherwise.",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "README.md",
+    "client.js",
+    "cordis.patch.yml",
+    "icon.svg",
+    "index.js",
+    "lib/*.js",
+    "lib/helper-mac.py",
+    "lib/helper-win.ps1",
+    "lib/sck-capture.swift",
+    "locale/*.json"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web"
+    }
+  }
+}
